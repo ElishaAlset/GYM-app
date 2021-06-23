@@ -1,0 +1,26 @@
+.img1 {
+  margin: 0 auto;
+  width: 40%;
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  position: absolute;
+  top: -100px;
+  right: 30px;
+  font-size: 4em;
+  color: rgba(255, 255, 255, 0.05);
+  pointer-events: none;
+}
+h3 {
+  font-size: 1.8em;
+  z-index: 1;
+}
+
+
